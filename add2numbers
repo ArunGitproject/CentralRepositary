@@ -2,3 +2,5 @@ a=10
 b=20
 c=a+b=30
 echo value of c will be 30
+let me add few more lines like factorial number
+factorial of 5 will 125.
